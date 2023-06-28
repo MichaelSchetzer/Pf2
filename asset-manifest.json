@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pf2/static/css/main.af493e43.css",
+    "main.js": "/Pf2/static/js/main.1ee77aaa.js",
+    "static/media/React-App-netflix-clone.png": "/Pf2/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/Pf2/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/Pf2/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/Pf2/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/Admin-Panel-Dashboard.png": "/Pf2/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/Pf2/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/Pf2/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/Pf2/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/Pf2/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/Pf2/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/Pf2/index.html",
+    "main.af493e43.css.map": "/Pf2/static/css/main.af493e43.css.map",
+    "main.1ee77aaa.js.map": "/Pf2/static/js/main.1ee77aaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af493e43.css",
+    "static/js/main.1ee77aaa.js"
+  ]
+}
