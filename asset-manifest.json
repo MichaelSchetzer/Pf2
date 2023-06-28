@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2b13f8f.css",
-    "main.js": "/static/js/main.5aacb42a.js",
-    "static/media/React-App-netflix-clone.png": "/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
-    "static/media/Charlestown-Pizza.png": "/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
-    "static/media/Gridlinesbuilders.png": "/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
-    "static/media/olx-clone image.png": "/static/media/olx-clone image.887047ffbf12c447e947.png",
-    "static/media/Admin-Panel-Dashboard.png": "/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
-    "static/media/web-removebg-preview.png": "/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
-    "static/media/Web-designer-1024x821.webp": "/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
-    "static/media/todolist.png": "/static/media/todolist.13858f78acbb5bec224e.png",
-    "static/media/logor.png": "/static/media/logor.79880cc41de9b15f45b5.png",
-    "static/media/bars.svg": "/static/media/bars.b264a25d796c08e0e322.svg",
-    "index.html": "/index.html",
-    "main.e2b13f8f.css.map": "/static/css/main.e2b13f8f.css.map",
-    "main.5aacb42a.js.map": "/static/js/main.5aacb42a.js.map"
+    "main.css": "/Pf3/static/css/main.dbd15824.css",
+    "main.js": "/Pf3/static/js/main.40ad33e7.js",
+    "static/media/React-App-netflix-clone.png": "/Pf3/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/Pf3/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/Pf3/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/Pf3/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/Admin-Panel-Dashboard.png": "/Pf3/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/Pf3/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/Pf3/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/Pf3/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/Pf3/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/Pf3/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/Pf3/index.html",
+    "main.dbd15824.css.map": "/Pf3/static/css/main.dbd15824.css.map",
+    "main.40ad33e7.js.map": "/Pf3/static/js/main.40ad33e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2b13f8f.css",
-    "static/js/main.5aacb42a.js"
+    "static/css/main.dbd15824.css",
+    "static/js/main.40ad33e7.js"
   ]
 }
